@@ -12,4 +12,4 @@ To complete this tutorial:
    `wget https://raw.githubusercontent.com/resolvesurvey/database-tutorial/master/RESOLVE_DR3.csv -P /home/jovyan/demo`
  * click the refresh page (curled arrow) at the top of the webpage
  * launch the tutorial notebook (double click on it)
- * run the first cell by clicking inside it and typing Ctrl-Enter -- watch the number next to the cell to see if it changes color (otherwise, you will just have to remember which cells you've already run)
+ * the entire notebook runs by default, but you can re-run individual cells by clicking on them and typing Ctrl-Enter
