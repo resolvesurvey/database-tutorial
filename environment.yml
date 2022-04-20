@@ -1,0 +1,11 @@
+name: resolve-tutorial-env
+
+dependencies:
+  - ipython
+  - matplotlib
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - astropy
+  - astroml 
